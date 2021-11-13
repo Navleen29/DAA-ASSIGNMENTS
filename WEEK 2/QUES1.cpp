@@ -56,6 +56,7 @@ int main()
      }
      cin>>key;
      cout<<key<<"-"<<count_freq(arr,key,n);
+        
 }
 return 0;
 }
